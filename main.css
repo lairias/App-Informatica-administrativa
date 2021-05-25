@@ -1,0 +1,70 @@
+ 
+ 
+ 
+ .color{
+    background-color: #0A4F9A ;
+  }
+  .boton{
+    position: relative;
+    left: 43%;
+   
+  }
+  .fo{
+  background-color: #7C89CA ;
+   display: flex;
+  justify-content: space-between;
+  opacity:80% ;
+}
+.fo1{
+  display: flex;
+  justify-content: space-between;
+}
+.principal{
+  color: #1F3B7C ;
+}
+.secundario{
+  color:#C8CFD3 ;
+}
+.icono{
+  font-size: 40px;
+  margin-bottom: 3px;
+  margin-top: 3px;
+}
+.color-btn{
+   background-color:#FFC20E !important;
+}
+
+.color-btn2{
+    background-color:#b5127f!important ;
+     color:#FFC20E !important;
+}
+.facu{
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 23%;
+}
+.noti{
+  position:absolute;
+  font-size: 15px !important;
+  right: 105px;
+}
+a{
+  text-decoration: none !important ;
+  color: black;
+}
+.envio{
+  background-color: #D2F4EA !important ;
+}
+
+.Notificacion
+{
+
+top: 600px;
+left:90px ;
+
+color: black;
+
+
+
+}
